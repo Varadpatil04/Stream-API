@@ -184,7 +184,7 @@ Java Streams provide a functional and efficient way to process data with minimal
 ---
 
 ## 📖 My Blog
-Check out my latest articles on [Medium](https://varadpatil.medium.com/streams-the-ultimate-powerhouse-aed376e59191).
+Check out my latest articles on Stream-API [Medium](https://varadpatil.medium.com/streams-the-ultimate-powerhouse-aed376e59191).
 
 
 ## 📌 Happy Coding! 😊
