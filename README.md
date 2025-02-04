@@ -181,8 +181,11 @@ Java provides Collectors to simplify reducing and grouping stream results.
 
 Java Streams provide a functional and efficient way to process data with minimal code and support parallel processing. They enhance readability and performance, making Java more expressive. 🚀
 
-
 ---
+
+## 📖 My Blog
+Check out my latest articles on [Medium](https://varadpatil.medium.com/streams-the-ultimate-powerhouse-aed376e59191).
+
 
 ## 📌 Happy Coding! 😊
 
